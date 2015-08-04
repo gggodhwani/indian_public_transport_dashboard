@@ -7,13 +7,17 @@ body, h1, h2, h3, h4, h5 {
 h1, h2, h3, h4, h5 {
   font-weight: bold;
 }
+h1{
+  margin-top: 10px;	
+}	
 p {
   font-size: 1.1em;
   line-height: 1.4em;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 #narrative .panel-body {
   padding: 20px;
+  background-color: #E6E6E6;
 }
 .table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td {
   padding: 2px;
@@ -323,7 +327,6 @@ div#legend-panel {
   bottom: 90px;
   left: 15px;
   width: 200px;
-  height: 200px;
   display: none;
 }
 

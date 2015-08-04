@@ -1,41 +1,56 @@
 layer,source,url
-population_total_val,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-population_under_18_val,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-population_under_5_val,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-total_neighborhood_poverty_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-children_in_poverty_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-single_mother_families_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-no_dip_18_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-no_dip_25_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-youth_ready_to_work_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-engagement_perc,"D.C. Board of Elections, 2012",https://www.dcboee.org/election_info/election_results/2012/November-6-General-Election/
-medicaid_enroll_val,"DC Department of Health Care Finance, 2011",http://dhcf.dc.gov/
-prev_med_visit_val,"DC Department of Health Care Finance, 2011",http://dhcf.dc.gov/
-dental_visit_val,"DC Department of Health Care Finance, 2011",http://dhcf.dc.gov/
-er_ast_10_val,"DC Department of Health, 2010",http://doh.dc.gov/
-fs_client_2012_val,"DC Department of Human Services, 2012",http://dhs.dc.gov/
-math_perc,"OSSE, 2013",http://osse.dc.gov/
-reading_perc,"OSSE, 2013",http://osse.dc.gov/
-cc_cap_val,"OSSE, July 2013",http://osse.dc.gov/
-cc_pop_ratio,"OSSE, July 2013",http://osse.dc.gov/
-cc_child_pov_ratio,"OSSE, July 2013",http://osse.dc.gov/
-cc_sub_13_cur,"OSSE, July 2013",http://osse.dc.gov/
-homeownership_perc,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
-vacants_val,"DC Department of Consumer and Regulatory Affairs, 2014",http://dcra.dc.gov/publication/blight-and-vacant-buildings-list
-libraries_val,"DC Public Libraries, 2012",http://dclibrary.org/
-grocery_val,"DC Office of Planning, 2012",http://planning.dc.gov/DC/Planning
-rec_val,"DC Department of Parks and Recreation, 2010",http://dpr.dc.gov/
-parks_val,"DC Department of Parks and Recreation, 2011",http://dpr.dc.gov/
-metro_val,"WMATA, 2007",http://dcatlas.dcgis.dc.gov/metadata/MetroStnFullPt.html
-bus_stops_val,"WMATA, 2011",http://dcatlas.dcgis.dc.gov/metadata/BusStopPt.html
-total_crime_val,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-total_crime_pc_ratio,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-homicide_val,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-homicide_pc_ratio,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-assault_val,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-assault_pc_ratio,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-robbery_val,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-robbery_pc_ratio,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-sex_abuse_val,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-sex_abuse_pc_ratio,"DC Metropolitan Police Department, 2012",http://crimemap.dc.gov/Download.aspx
-median_family_income_val,2009-2013 ACS,http://factfinder2.census.gov/faces/nav/jsf/pages/programs.xhtml?program=acs
+population_total_val,
+average_fleet_held_val,
+average_fleet_operated_val,
+fleet_utilisation_perc,
+avg_age_of_fleet_val,
+over_aged_vehicles_perc,
+number_of_accidents,
+number_of_fatal_accidents,
+revenue_earning_kilometres,
+number_of_accidents_per_lakh_reveue_earning_kilometres,
+number_of_fatal_accidents_per_lakh_reveue_earning_kilometres,
+staff_strength,
+staff_bus_ratio,
+staff_productivity,
+vehicle_productivity,
+fuel_efficiency,
+passenger_kilometres_offered,
+passenger_kms_performed,
+occupancy_ratio,
+passenger_carried,
+passengers_carried_per_bus_per_day,
+total_revenue,
+total_cost,
+net_profit_loss,
+revenue_per_km,
+cost_per_km,
+profit_loss_per_km,
+revenue_per_bus_per_day,
+cost_per_bus_per_day,
+profit_loss_per_bus_per_day,
+staff_costs,
+fuel_lubricant_costs,
+cost_of_tyres_tubes,
+cost_of_spares,
+interest,
+depreciation,
+taxes,
+other_cost,
+profit_before_tax,
+staff_cost_as_percent_of_total_cost,
+fuel_lubricant_cost_as_percent_of_total_cost,
+tyres_tubes_cost_as_percent_of_total_cost,
+spares_cost_as_percent_of_total_cost,
+interest_cost_as_percent_of_total_cost,
+depreciation_cost_as_percent_of_total_cost,
+tax_cost_as_percent_of_total_cost,
+other_costs_as_percent_of_total_cost,
+staff_cost_per_revenue_earning_km,
+fuel_lubricant_cost_per_revenue_earning_km,
+tyres_tubes_cost_per_revenue_earning_km,
+spares_cost_per_revenue_earning_km,
+interest_cost_per_revenue_earning_km,
+depreciation_cost_per_revenue_earning_km,
+tax_cost_per_revenue_earning_km,
+other_costs_per_revenue_earning_km,
